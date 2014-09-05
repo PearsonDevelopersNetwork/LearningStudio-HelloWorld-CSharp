@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Deploy\HelloWorld</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>12/31/2011 08:33:19</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>07/22/2014 16:47:22</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>07/22/2014 16:47:22</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.CryptoExt.dll">
+      <publishTime>06/16/2014 14:45:35</publishTime>
+    </File>
+    <File Include="bin/Com.Pearson.Pdn.Learningstudio.Content.dll">
+      <publishTime>07/22/2014 16:47:14</publishTime>
+    </File>
+    <File Include="bin/Com.Pearson.Pdn.Learningstudio.Core.dll">
+      <publishTime>07/22/2014 16:47:12</publishTime>
+    </File>
+    <File Include="bin/Com.Pearson.Pdn.Learningstudio.Exam.dll">
+      <publishTime>07/22/2014 16:47:13</publishTime>
+    </File>
+    <File Include="bin/Com.Pearson.Pdn.Learningstudio.Grades.dll">
+      <publishTime>07/22/2014 16:47:14</publishTime>
+    </File>
+    <File Include="bin/Com.Pearson.Pdn.Learningstudio.HelloWorld.WebApp.dll">
+      <publishTime>07/22/2014 16:47:15</publishTime>
+    </File>
+    <File Include="bin/Com.Pearson.Pdn.Learningstudio.OAuth.dll">
+      <publishTime>07/22/2014 16:47:12</publishTime>
+    </File>
+    <File Include="bin/LearningStudio.Utility.dll">
+      <publishTime>07/22/2014 16:47:11</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>06/16/2014 14:45:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/19/2012 10:59:52</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/16/2014 14:45:35</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>07/10/2012 21:52:12</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>07/10/2012 21:52:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>07/10/2012 21:51:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>08/17/2012 11:22:26</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>07/10/2012 12:03:34</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>07/10/2012 12:03:34</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>07/10/2012 12:03:34</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>07/15/2014 22:10:45</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>07/22/2014 16:47:17</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>07/15/2014 22:10:46</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>07/15/2014 22:10:46</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>07/16/2014 00:27:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/16/2014 00:27:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
